@@ -10,6 +10,7 @@ packages = [{include = "test_django"}]
 python = "^3.10"
 django = "^4.2.3"
 djangorestframework = "^3.14.0"
+celery = "^5.3.1"
 
 
 [build-system]
